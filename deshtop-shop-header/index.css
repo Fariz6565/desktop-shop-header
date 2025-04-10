@@ -1,0 +1,371 @@
+.header-1{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.baslig{
+    display: flex;
+    background-color: rgba(37, 43, 66, 1);
+    color: rgba(255, 255, 255, 1);
+    justify-items: center;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.email{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+.sekil-yazi{
+    display: flex;
+    align-items: center;
+}
+.sosial{
+    display: flex;
+    gap: 20px;
+    margin-right: 20px;
+}
+
+.orta{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.page{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    margin-left: 20px;
+}
+.login{
+    display: flex;
+    gap: 10px;
+}
+.link-page{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-right: 10px;
+}
+.home-page{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 350px;
+}
+
+.end{
+    height: 716px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    flex-direction: column;
+    background-image: url(./image/shop-hero-1-product-slide-1arxa\ fon\ qiz.svg);
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.shopnow{
+    display: flex;
+    background-color: rgba(45, 192, 113, 1);
+    width: 221px;
+    height: 62px;
+    align-items: center;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 25px;
+}
+
+.end-yazi{
+    display: flex;
+    flex-direction: column;
+    margin-right: 850px;
+    gap: 30px;
+    color: rgba(255, 255, 255, 1);
+    
+}
+
+.end-2{
+    height: 80%;
+    background-image: url(./image/hero-cover-1sirinqiz.svg);
+    background-color: rgba(171, 236, 214, 1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.shopnow1{
+    display: flex;
+    background-color: rgba(35, 166, 240, 1);
+    width: 221px;
+    height: 62px;
+    align-items: center;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 25px;
+    justify-content: center;
+}
+
+
+.header-2{
+    height: 100vh;
+}
+
+.end2-yazi{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    padding-top: 100px;
+    gap: 40px;
+}
+
+.header-3{
+    height: 100vh;
+}
+
+.end3{
+    height: 85vh;
+    background-image: url(./image/shop-hero-3-product-slide-2.kfc.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.orta-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.end3-yazi{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 600px;
+    padding-top: 150px;
+    gap: 70px;
+}
+
+.end4{
+    height: 85vh;
+    background-image: url(./image/shop-hero-3-product-slide-2.ackili\ qiz.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.baslig-5{
+    background-color: rgba(35, 133, 109, 1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header5-end{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.header5-end-right{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.header5-end-botton{
+    display: flex;
+    gap: 16px;
+}
+
+.header-6{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.header6-asagi{
+
+    display: flex;
+
+}
+.solsekil{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+.ortayazi{
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-top: 150px;
+}
+.sagsekil{
+    display: flex;
+
+}
+.botton6{
+    margin-left: 50px;
+    color: rgba(35, 166, 240, 1);
+    background-color: transparent;
+    border: 1px solid rgba(35, 166, 240, 1);
+    border-radius: 2px;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+}
+
+.header-7{
+    height: 100vh;
+    background-image: url(./image/backgroundsirgali.qiz.svg);
+    background-repeat: no-repeat;
+}
+
+.metn7-hisse{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    padding-top: 150px;
+
+    gap: 20px;
+}
+.header-8{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header-8esas{
+    height: 80vh;
+    background-color: #072B6E;
+}
+.baslig-8hisse{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-around;
+
+}
+.botton8{
+    display: flex;
+    background-color: rgba(35, 166, 240, 1);
+    color: white;
+    align-items: center;
+    gap: 10px;
+    border-radius: 1px;
+    border: 1px;
+    height: 50px;
+}
+.link-page-end{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header8-yazisi{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-left: 155px;
+    padding-top: 100px;
+    gap: 30px;
+}
+.readmore{
+    color: white;
+    background-color: transparent;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.mezmun{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aghisse{
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.vector{
+    display: flex;
+    gap: 120px;
+    justify-content: center;
+    background-color: white;
+}
+.vector1{
+    align-items: center;
+    justify-content: center;
+}
+
+.header-9{
+    height: 100vh;
+    
+}
+
+.orta9{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header9-asagi{
+    height: 70vh;
+    background-image: url(./image/backgroundarxa.fon.9.svg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    color: white;
+    margin-right: 40px;
+}
+
+.header9-yazi{
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    padding-top: 100px;
+}
+.shopnow9{
+    background: transparent;
+    width: 221px;
+    height: 42px;
+    color: white;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+.asagi-10{
+    background-image: url(./image/backgroundarxa.fon.10.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.button10{
+    background: transparent;
+    width: 151px;
+    height: 42px;
+
+    color: white;
+    border-radius: 15px;
+    border: 3px solid white;
+}
+.asagi-10-yazi{
+    display: flex;
+    flex-direction: column;
+    padding-left: 350px;
+    padding-top: 150px;
+    color: white;
+}
+.h10-img{
+    padding-left: 150px;
+}
